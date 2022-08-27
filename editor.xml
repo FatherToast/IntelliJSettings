@@ -14,6 +14,8 @@
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -24,6 +26,6 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old.java.clear.expression.type" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
 </application>
